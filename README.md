@@ -16,13 +16,13 @@
 
 ## 📈 GitHub Stats
 ![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh081&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh081&layout=compact&theme=radical)
+
 
 ---
 
 ## 🔥 GitHub Streak & Trophies
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh081&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=utkarsh081&theme=radical)
+
 
 ---
 
