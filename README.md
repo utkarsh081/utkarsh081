@@ -30,7 +30,7 @@
 | Project | Description | GitHub |
 |---------|------------|--------|
 | Driver Drowsiness Detection | Real-time driver distraction detection using ResNet50 | [Repo](https://github.com/utkarsh081/Driver-Distraction-Detection-System) |
-| ChatterBox | Fullstack chat app with video calls and groups | [Repo]() |
+| ChatterBox | Fullstack chat app with video calls and groups | [Repo](https://github.com/utkarsh081/Chat_website) |
 | MCDM Project | Weighted scoring decision analysis | [Repo](https://github.com/utkarsh081/mcdm_project) |
 
 ---
